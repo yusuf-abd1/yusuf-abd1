@@ -1,8 +1,8 @@
-# Hi, I'm Yusuf 👋
+# Hi, I'm Yusuf 
 
 <div align="center">
 
-### 💻 Computer Programming Student | Software Developer & QA Enthusiast
+###  Computer Programming Student | Software Developer & QA Enthusiast
 *Bridging the gap between robust backend logic, efficient data management, and software quality assurance.*
 
 📍 Kastamonu University, Turkey  
@@ -12,12 +12,12 @@
 
 ---
 
-### 💼 Professional Summary
+###  Professional Summary
 I am a dedicated Computer Programming student with a diverse technical foundation spanning application development, database management, and software testing. My background includes hands-on experience in quality assurance, ensuring software reliability and clean execution alongside my development skills.
 
 ---
 
-### 🛠️ Technical Expertise
+###  Technical Expertise
 
 <table align="center">
   <tr>
